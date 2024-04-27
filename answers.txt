@@ -1,0 +1,10 @@
+1. There are 4944 courses listed in the course catalog.
+2. There are 3447 courses after un-duplicating the catalog.
+3. BIOS seems to offer the highest number of courses at 137.
+4. The number of courses is around 800-900 for all 3 quarters, so there's a 
+difference but not one that seems significant.
+
+Number of courses offered in each term:
+Autumn: 866
+Winter: 789
+Spring: 898
